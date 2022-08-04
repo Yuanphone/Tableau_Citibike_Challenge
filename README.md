@@ -3,8 +3,8 @@
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike Data webpage.However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so our task on the job is to build a set of data reports to provide the answers.
 ### Tableau Public Link for Citibike Analysis
 ### [Story1: Comparison of Citibike Data (06/2022 vs 12/2021)](https://public.tableau.com/views/ComparisonofCitibikeData062022vs122021/ComparisonStory?:language=en-US&:display_count=n&:origin=viz_share_link)
-### [Story2: Popular Stations (06/2022](https://public.tableau.com/views/storyforpopularstations/StoryforPopularStations?:language=en-US&:display_count=n&:origin=viz_share_link)
-### [Story3: Popularity Changes Over time (06/2022 vs 12/2021](https://public.tableau.com/views/DynamicMapforPopularityChange/Story_DynamicMapforPopularityChange?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+### [Story2: Popular Stations (06/2022)](https://public.tableau.com/views/storyforpopularstations/StoryforPopularStations?:language=en-US&:display_count=n&:origin=viz_share_link)
+### [Story3: Popularity Changes Over time (06/2022 vs 12/2021)](https://public.tableau.com/views/DynamicMapforPopularityChange/Story_DynamicMapforPopularityChange?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ### Tableau Analysis Screenshots
 
 <img width="563" alt="Total Rideship Grown Percentage" src="https://user-images.githubusercontent.com/100816322/182924712-d34b34a6-3698-4dd1-855e-01fafe4b5b2f.PNG">
